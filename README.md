@@ -27,7 +27,7 @@
 ## 🧬 The `neha10sys` Object
 
 ```typescript
-const khushi: Developer = {
+const neha: Developer = {
   name:       "Neha Singh",
   role:       "Fullstack-Leaning Software Engineer",
   education:  "B.Tech CSE @ Galgotia college of engineering and technology (2023–2027)",
