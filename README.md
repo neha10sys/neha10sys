@@ -57,6 +57,7 @@ const neha: Developer = {
 |:---|:---|:---|
 | [**Work Sphere**](#) | Role-based task coordination for admins & employees with Excel report export | React · Tailwind · Node · Express · MongoDB |
 | [**Yatraverse**](#) | An travel recommendation website that helps explore local expeirience and culture | MERN · Gemini API · Tailwind |
+| [**Verixa**](#) | A developer skill verification platform with skill assessments, project verification, certificates, and trust scoring | MERN · JWT · Socket.io · Tailwind CSS |
 
 </div>
 
