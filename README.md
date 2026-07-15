@@ -54,7 +54,7 @@ const neha: Developer = {
 
 | 🚀 Project | 💡 Description | 🔗 Live Demo | 📂 Repository | 🛠️ Tech Stack |
 |:-----------|:--------------|:------------:|:-------------:|:--------------|
-| **Work Sphere** | Role-based task coordination platform for admins & employees with Excel report export. | **[🌐 Live](https://task-manager-fawn-eight-55.vercel.app/)** | **[📂 GitHub](https://github.com/neha10sys/Work-Sphere)** | React · Tailwind · Node.js · Express · MongoDB |
+| **Work Sphere** | Role-based task coordination platform for admins & employees with Excel report export. | **[🌐 Live](https://work-sphere-sage.vercel.app/)** | **[📂 GitHub](https://github.com/neha10sys/Work-Sphere)** | React · Tailwind · Node.js · Express · MongoDB |
 | **Yatraverse** | AI-powered travel recommendation website that helps users explore local experiences and culture. | 🚧 *Coming Soon* | **[📂 GitHub](https://github.com/neha10sys/Yatraverse)** | MERN · Gemini API · Tailwind CSS |
 | **Verixa** | Developer skill verification platform with assessments, project verification, certificates, and trust scoring. | **[🌐 Live](https://www.verixa.co.in/)** | **[📂 GitHub](https://github.com/neha10sys/Verixa)** | MERN · JWT · Socket.io · Tailwind CSS |
 
