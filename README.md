@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner — clicks through to portfolio -->
 <a href="https://portfolio-amber-two-uop66e0bee.vercel.app/" target="_blank">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=200&section=header&text=Neha%20Singh&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA%20Learner&descSize=18&descAlignY=58&descColor=E9D5FF" />
+  <img="100%" type=waving&color=0:7C3AED,50:A855F7,100:EC4899&height=200&section=header&text=Neha%20Singh&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20DSA%20Learner&descSize=18&descAlignY=58&descColor=E9D5FF" />
 </a>
 
 <!-- Typing SVG -->
