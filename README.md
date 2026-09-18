@@ -97,12 +97,11 @@ const neha: Developer = {
 
 </div>
 
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Neha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neha10sys&custom_title=Neha's%20Contribution%20Graph&bg_color=1A1B27&color=A855F7&line=7C3AED&point=EC4899&area=true&area_color=A855F7&hide_border=true&title_color=A855F7)](https://github.com/neha10sys)
+![Neha's Contribution Graph](https://ghchart.rshah.org/A855F7/neha10sys)
 
 </div>
 ---
