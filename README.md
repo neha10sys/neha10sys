@@ -93,8 +93,7 @@ const neha: Developer = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=neha10sys&theme=radical&no-frame=true&no-bg=false&column=6&margin-w=8&margin-h=8)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=neha10sys&theme=dracula&no-frame=true&column=6&margin-w=10)
 </div>
 
 ## 📈 Contribution Graph
