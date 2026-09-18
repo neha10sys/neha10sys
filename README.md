@@ -93,7 +93,7 @@ const neha: Developer = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=khu5shi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5)
+![Trophies](https://github-profile-trophy.vercel.app/?username=neha10sys&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5)
 
 </div>
 
