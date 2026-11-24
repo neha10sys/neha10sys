@@ -96,6 +96,20 @@ const neha: Developer = {
 ![Trophies](https://github-trophies.vercel.app/?username=neha10sys&theme=discord&no-frame=true&no-bg=true&margin-w=15)
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neha10sys&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Neha's GitHub Stats" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=neha10sys&theme=radical&hide_border=false" alt="Neha's GitHub Streak" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
