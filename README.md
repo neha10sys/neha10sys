@@ -114,7 +114,11 @@ const neha: Developer = {
 
 <div align="center">
 
-![Neha's Contribution Graph](https://ghchart.rshah.org/A855F7/neha10sys)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neha10sys/Neha10sys/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neha10sys/neha10sys/output/github-snake.svg" />
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/neha10sys/neha10sys/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 ---
